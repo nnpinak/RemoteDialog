@@ -1,3 +1,5 @@
 {
-  "message": "Your Activity Is Unauthorized and Reported To Authority!"
+  "show": "yes",
+  "message": "This is your dialog text from GitHub."
 }
+
