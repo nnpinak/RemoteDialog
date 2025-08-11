@@ -1,0 +1,14 @@
+{
+  "devices": [
+    {
+      "id": "device_id_1",
+      "status": "active",
+      "expiry_date": "2025-12-31"
+    },
+    {
+      "id": "device_id_2",
+      "status": "inactive",
+      "expiry_date": "2024-05-01"
+    }
+  ]
+}
