@@ -1,1 +1,6 @@
-
+{
+  "devices": [
+    { "id": "1234567890abcdef", "status": "active" },
+    { "id": "abcdef1234567890", "status": "inactive" }
+  ]
+}
