@@ -1,0 +1,14 @@
+[
+  {
+    "deviceId": "12345",
+    "title": "Welcome",
+    "message": "Hello user!",
+    "showDialog": true
+  },
+  {
+    "deviceId": "67890",
+    "title": "Update",
+    "message": "Please update your app.",
+    "showDialog": false
+  }
+]
