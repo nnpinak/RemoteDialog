@@ -10,5 +10,11 @@
     "title": "Update",
     "message": "Please update your app.",
     "showDialog": false
+  }, 
+  {
+    "deviceId": "54a70c765c8e7fa2",
+    "title": "Update",
+    "message": "Please update your app.",
+    "showDialog": false
   }
 ]
