@@ -1,7 +1,8 @@
 {
   "devices": [
+    { "id": "94bb2cc3b711a49f", "status": "active" }, 
     { "id": "54a70c765c8e7fa2", "status": "active" },
     { "id": "323940c658ad3602", "status": "active" }, 
-    { "id": "94bb2cc3b711a49f", "status": "active" },
+    { "id": "94bb6cc3b711a49f", "status": "active" }
   ]
 }
